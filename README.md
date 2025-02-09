@@ -99,12 +99,6 @@ python ExtensionHound.py --chrome-dir "/path/to/Chrome User Data/Default" --vt -
 
 ## Features
 
-### YARA Rules Integration
-- Uses YARA rules for advanced extension signature detection
-- Identifies potentially malicious extensions based on code patterns
-- Helps detect known malicious behaviors and techniques
-- Supports custom YARA rule sets for specialized detection needs
-
 ### VirusTotal Integration
 - Checks domain reputation against VirusTotal's database
 - Shows detection ratios with severity indicators:
